@@ -1,0 +1,5 @@
+TODO list
+
+* Get the testing framework going and write test for the searchview
+* Get the search box working
+* Use some web api for getting stock quotes
